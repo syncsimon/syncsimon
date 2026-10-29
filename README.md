@@ -4,8 +4,6 @@
 
 I'm an AI & Data Science student interested in software development, web technologies, and practical AI applications. I enjoy learning by building projects, solving problems, and improving my code one commit at a time.
 
-![Profile Views](https://komarev.com/ghpvc/?username=syncsimon&label=Profile%20Views&color=0e75b6&style=flat)
-
 
 - 🔭 **Currently working on:** JavaScript, web development, and personal projects
 - 🌱 **Currently learning:** Deeper JavaScript concepts and software development fundamentals
